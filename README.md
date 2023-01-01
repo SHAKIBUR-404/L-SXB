@@ -1,5 +1,6 @@
 # L-SXB 
 Update vertion 1.5
+first choice 4 Then Enter And Enjoying 
 ---------****--------
 apt update 
 
