@@ -13,6 +13,8 @@ pip install bs4
 
 pip install requests 
 
+rm -rf L-SXB
+
 git clone https://github.com/SHAKIBUR-404/L-SXB
 
 cd L-SXB
